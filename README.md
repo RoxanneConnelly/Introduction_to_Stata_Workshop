@@ -24,7 +24,7 @@ Recommend Texts:
 <ul style="list-style-type:circle;">
   <li>Mehmetoglu, M., & Jakobsen, T. G. (2016). Applied statistics using Stata: a guide for the social sciences. London: Sage.</li>
   <li>Acock, A. C. (2008). A gentle introduction to Stata. College Station, Texas: Stata Press.</li>
-  <li>Long, J. S., & Long, J. S. (2009). The workflow of data analysis using Stata. College Station, Texas: Stata Press.</li>
+  <li>Long, J. S. (2009). The workflow of data analysis using Stata. College Station, Texas: Stata Press.</li>
   <li>Kohler, U., & Kreuter, F. (2005). Data analysis using Stata. College Station, Texas: Stata Press.</li>
 </ul>
 <br>
