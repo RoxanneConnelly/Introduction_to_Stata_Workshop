@@ -20,7 +20,7 @@ Overview:
   <li>Procedures for preparing publication ready tables.</li>
 </ul>
  <br>
-Recommend Texts:
+Recommended Texts:
 <ul style="list-style-type:circle;">
   <li>Mehmetoglu, M., & Jakobsen, T. G. (2016). Applied statistics using Stata: a guide for the social sciences. London: Sage.</li>
   <li>Acock, A. C. (2008). A gentle introduction to Stata. College Station, Texas: Stata Press.</li>
