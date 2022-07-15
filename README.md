@@ -10,7 +10,7 @@ University of York</h3>
 1000 - 1600</h3>
  <br><br>
  
- These materials have been prepared by Dr Roxanne Connelly (roxanne.connelly@york.ac.uk) and Dr Kevin Ralston (k.ralston@yorksj.ac.uk).
+ These materials have been prepared by Dr Roxanne Connelly (roxanne.connelly@ed.ac.uk) and Dr Kevin Ralston (k.ralston@ed.ac.uk).
  <br><br>
 Overview:
 <ul style="list-style-type:circle;">
